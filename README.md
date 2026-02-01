@@ -13,7 +13,7 @@
   />
 </p>
 
-<img src="https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?auto=format&fit=crop&w=500&q=80" width="360" style="float:right; margin-left:20px;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="280" style="float:right; margin-left:20px;" />
 
 - 📚 Learning **Python, Machine Learning, AI Models**
 - 💡 Interested in **AI & Python Projects**
