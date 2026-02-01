@@ -32,7 +32,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,c,html,css,sql,git,github,docker,cloud,linux,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,java,c++,c,html,css,sql,git,github,google cloud,docker,cloud,linux,tensorflow" />
 </p>
 
 ---
