@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**Raj300512/Raj300512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 😄, I'm Pranav Arun Jadhav</h1>
+<h3 align="center">A Passionate AI Engineer & Python Developer from India 🇮🇳</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/aryxett/Images/main/cyberpunk.png"/>
+
+### 👨‍💻 About Me
+- 📚 Learning **Python, Machine Learning, AI Models**
+- 💡 Interested in **AI & Python Projects**
+- 🤝 Open to **collaborations & innovative ideas**
+- 💬 Ask me about **Python, SQL, AI, Cloud**
+
+📫 **How to reach me:**  
+📧 pranav405@gmail.com  
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/pranav-jadhav-20aa13211/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:pranavj405@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,c,html,css,sql,git,github,docker,cloud,linux,tensorflow" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Raj300512&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj300512&theme=tokyonight" />
+</p>
+
