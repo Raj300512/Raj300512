@@ -20,7 +20,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/pranav-jadhav-20aa13211/" target="_blank">
+<a href="https://www.linkedin.com/in/pranav-jadhav-20aa13211/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="mailto:pranavj405@gmail.com">
@@ -29,11 +29,9 @@
 </p>
 
 ---
-
-### 🛠️ Languages & Tools
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c++,c,html,css,sql,git,github,docker,google cloud,linux,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,sql,git,github,docker,gcp,linux,tensorflow" />
 </p>
 
 ---
