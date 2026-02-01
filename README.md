@@ -43,7 +43,41 @@
 </p>
 
 ---
+### 📌 Profile Highlights
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📊 GitHub Overview
+- Active open-source learner  
+- Consistent commit activity  
+- Hands-on project-based learning  
+- Focus on clean & maintainable code  
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 Core Tech Focus
+- Python for AI & automation  
+- Machine Learning fundamentals  
+- Cloud & database-driven systems  
+- Full Stack development basics  
+
+</td>
+<td width="33%" valign="top">
+
+### 🔥 Growth & Consistency
+- Daily learning mindset  
+- Strong problem-solving approach  
+- Long-term AI engineering goals  
+- Continuous skill improvement  
+
+</td>
+</tr>
+</table>
+
+--
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raj300512&show_icons=true&theme=tokyonight" height="165"/>
