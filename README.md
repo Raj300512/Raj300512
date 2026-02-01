@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raj300512/Raj300512/main/Futuristic GitHub profile banner design.png" alt="Pranav Jadhav GitHub Banner"/>
+</p>
 
 <h1 align="center">
   Hi 👋, I'm Pranav Jadhav
