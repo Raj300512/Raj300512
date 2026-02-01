@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raj300512/Raj300512/main/Futuristic GitHub profile banner design.png" alt="Pranav Jadhav GitHub Banner"/>
+  <img src="https://raw.githubusercontent.com/Raj300512/Raj300512/main/profile-banner.png" width="100%" />
 </p>
 
 <h1 align="center">
