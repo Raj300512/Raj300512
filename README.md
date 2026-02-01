@@ -1,17 +1,18 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raj300512/Raj300512/main/Futuristic%20GitHub%20profile%20banner%20design.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranav Jadhav</h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Pursuing+AI+Internship;Google+Cloud+Skills+Boost;Python+%7C+Machine+Learning;Open+Source+Learner"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Pursuing+AI+Internship;Google+Cloud+Skills+Boost;Python+%7C+Machine+Learning;Open+Source+Learner"
     alt="Typing SVG"
   />
 </p>
+
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="280" style="float:right; margin-left:20px;" />
 
