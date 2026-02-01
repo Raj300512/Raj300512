@@ -78,6 +78,20 @@
 </table>
 
 --
+
+### 🏆 Badges & Certifications
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-blue?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Learner-orange?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github"/>
+</p>
+
+### 📚 Currently Learning
+- Advanced Machine Learning techniques
+- Cloud deployment (GCP)
+- API development with Flask
+- Data Structures & Algorithms
+--
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raj300512&show_icons=true&theme=tokyonight" height="165"/>
@@ -87,12 +101,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj300512&layout=compact&theme=tokyonight"/>
 </p>
-
-
-### 🏆 Badges & Certifications
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-blue?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Learner-orange?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github"/>
-</p>
-
