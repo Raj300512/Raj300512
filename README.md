@@ -1,25 +1,20 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raj300512/Raj300512/main/Futuristic GitHub profile banner design.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Raj300512/Raj300512/main/Futuristic%20GitHub%20profile%20banner%20design.png" width="100%" />
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm Pranav Jadhav
-</h1>
+<h1 align="center">Hi 👋, I'm Pranav Jadhav</h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Pursuing+AI+Internship;Google+Cloud+Skills+Boost;Python+%7C+Machine+Learning;Open+Source+Learner" 
-    alt="Typing SVG" 
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Pursuing+AI+Internship;Google+Cloud+Skills+Boost;Python+%7C+Machine+Learning;Open+Source+Learner"
+    alt="Typing SVG"
   />
 </p>
 
----
+<img src="https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?auto=format&fit=crop&w=500&q=80" width="360" style="float:right; margin-left:20px;" />
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/aryxett/Images/main/cyberpunk.png"/>
-
-### 👨‍💻 About Me
 - 📚 Learning **Python, Machine Learning, AI Models**
 - 💡 Interested in **AI & Python Projects**
 - 🤝 Open to **collaborations & innovative ideas**
