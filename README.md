@@ -92,7 +92,6 @@
 - API development with Flask
 - Data Structures & Algorithms
 --
-### 📊 GitHub Stats
 ## 📊 GitHub Stats
 
 <p align="center">
